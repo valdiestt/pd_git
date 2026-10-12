@@ -4,3 +4,5 @@ print("Promedio:", promedio)
 
 print("Nota maxima:", max(notas))
 print("Nota minima:", min(notas))
+
+print("Cantidad de notas:", len(notas))
